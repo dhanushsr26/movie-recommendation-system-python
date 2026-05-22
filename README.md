@@ -158,4 +158,4 @@ The Excel file demonstrates a manual content-based filtering calculation:
 
 ---
 
-*Submitted as part of the Data Mining course — MCA / PG Programme*
+*Submitted as part of the Data Mining course —  PG Programme*
